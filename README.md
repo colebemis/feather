@@ -6,6 +6,7 @@
 [![npm version](https://img.shields.io/npm/v/feather-icons.svg?style=flat-square)](https://www.npmjs.com/package/feather-icons)
 [![CDNJS version](https://img.shields.io/cdnjs/v/feather-icons.svg?style=flat-square)](https://cdnjs.com/libraries/feather-icons)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=G6CPFZ6PQRZW8&amp;lc=US&amp;item_name=Feather&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+[![Join the community on Spectrum](https://img.shields.io/badge/join%20the%20community-on%20spectrum-blue.svg?style=flat-square&colorB=3818E5)](https://spectrum.chat/feather)
 
 ## What is Feather?
 
@@ -407,6 +408,7 @@ Caught a mistake or want to contribute to the documentation? [Edit this page on 
  - [react-feather](https://github.com/carmelopullara/react-feather) - Feather icons as React components
  - [sketch-feather](https://github.com/odmln/sketch-feather) - Feather icons as a Sketch library
  - [vue-feather-icon](https://github.com/mage3k/vue-feather-icon) - Feather icons as Vue components
+ - [figma-feather](https://github.com/mittalyashu/figma-feather) - Feather icons as a Figma library
 
 ## License
 
