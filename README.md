@@ -399,6 +399,9 @@ Caught a mistake or want to contribute to the documentation? [Edit this page on 
  - [wp-php-feather](https://github.com/reatlat/wp-php-feather) - Feather icons as a WordPress template tag
  - [django-feather](https://pypi.org/project/django-feather/) - Feather icons as Django Template Tag
  - [svelte-feather-icons](https://github.com/dylanblokhuis/svelte-feather-icons) - Feather icons as Svelte components
+ - [blade-feather-icons](https://github.com/brunocfalcao/blade-feather-icons) - Feather icons for Laravel applications
+
+
 
 ## License
 
